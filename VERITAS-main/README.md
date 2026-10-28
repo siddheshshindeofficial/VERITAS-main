@@ -6,7 +6,7 @@
 
 Turn a debate into a living knowledge object.
 
-GitHub Repository: https://github.com/namansharmareigns/VERITAS
+GitHub Repository: https://github.com/siddheshshindeofficial/VERITAS-main
 
 ## Overview
 
